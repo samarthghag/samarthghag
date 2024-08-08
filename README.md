@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sama1504&" alt="sama1504" /></p>
 
 <a href="https://app.daily.dev/samarth0917"><img src="https://api.daily.dev/devcards/v2/cOf7OGPvSeMYDMnVsaDNC.png?type=default&r=tpw" width="356" alt="Samarth's Dev Card"/></a>
+
+<script src="https://gist.github.com/olooney/a89db3932b089925b71b68d7e9f27bbb.js"></script>
