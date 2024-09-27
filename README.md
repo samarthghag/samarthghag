@@ -1,33 +1,40 @@
-<h1 align="center">Hi 👋, I'm Samarth Ghag</h1>
-<h3 align="center">A passionate Developer from India</h3>
+![👋 Hi, my name is Samarth Ghag](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sama1504&label=Profile%20views&color=0e75b6&style=flat" alt="sama1504" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=Sama1504&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Samarth Ghag
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- 🌱 I’m currently learning **Core Java** **Python** **JavaScript**
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="samarthghag1504sam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/Sama1504" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/samarth-ghag-581a96300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/https://www.instagram.com/samarth.ghag.1504/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sama1504](https://github.com/Sama1504)
+ **<h3 align="left">🚀 Passionate developer, I am skilled in front-end and back-end technologies, with a keen eye for user experience and performance optimization. Tech-driven innovator fostering growth through impactful projects. Continuously enhancing skills and contributing to the community</h3>**
 
-- 💬 Ask me about **Java , Web Development, Graphic Design**
+**<h3 align="left">Rapid Fire</h3>**
 
-- 📫 How to reach me **samarthghag1504sama@gmail.com**
+- 💼 I'm currently working on: **💻 Developing a website using with gpt api to generate content for all different platforms **
+- 🌱 I'm currently learning: **📚 Artificial Intelligence , Generative Ai  **
+- 💬 Ask me about: **💡 JavaScript, Node.js, MongoDB, and  Java , Web Development, Graphic Design**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wB5EpE_HsyLnC2xawN4OOOb6hu5v2QWc/view?usp=sharing](https://drive.google.com/file/d/1wB5EpE_HsyLnC2xawN4OOOb6hu5v2QWc/view?usp=sharing)
+ **<h3 align="left">Skills</h3>**
 
-<h3 align="left">Connect with me:</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="32" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="32" alt="C" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" height="32" alt="Kotlin" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Notepad++-90E59A?logo=notepad-plus-plus&logoColor=white" height="32" alt="Notepad++" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
 <p align="left">
-<a href="https://linkedin.com/in/samarth-ghag-581a96300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-ghag-581a96300" height="30" width="40" /></a>
-<a href="https://instagram.com/samarth.ghag.1504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarth.ghag.1504" height="30" width="40" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sama1504&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Sama1504&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sama1504&show_icons=true&locale=en&layout=compact" alt="sama1504" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sama1504&show_icons=true&locale=en" alt="sama1504" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sama1504&" alt="sama1504" /></p>
-
-<a href="https://app.daily.dev/samarth0917"><img src="https://api.daily.dev/devcards/v2/cOf7OGPvSeMYDMnVsaDNC.png?type=default&r=tpw" width="356" alt="Samarth's Dev Card"/></a>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sama1504&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
