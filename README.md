@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: ** 💻 Developing a website using with gpt api to generate content for all different platforms **
-- 🌱 I'm currently learning: ** 📚 Artificial Intelligence , Generative Ai  **
+- 💼 I'm currently working on: **💻 Developing a website using with gpt api to generate content for all different platforms**
+- 🌱 I'm currently learning: **📚 Artificial Intelligence , Generative Ai**
 - 💬 Ask me about: **💡 JavaScript, Node.js, MongoDB, and  Java , Web Development, Graphic Design**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
