@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a website using with gpt api to generate content for all different platforms**
 - 🌱 I'm currently learning: **📚 Artificial Intelligence , Generative Ai**
-- 💬 Ask me about: **💡 JavaScript, Node.js, MongoDB, and  Java , Web Development, Graphic Design**
+- 💬 Ask me about: **💡 JavaScript, Node.js and  Java , Web Development, Graphic Design**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
  **<h3 align="left">Skills</h3>**
