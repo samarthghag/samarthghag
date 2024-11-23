@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samarth | Projects</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .project-card-large {
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+        
+        /* Initial state for filtered items */
+        .project-card-large[style*="display: none"] {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200">
+    <!-- Navigation -->
+    <nav class="fixed w-full bg-gray-900/80 backdrop-blur-sm z-50 py-4">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center">
+                <a href="index.html" class="text-2xl font-bold gradient-text">S.</a>
+                <div class="hidden md:flex space-x-8">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="index.html#about" class="nav-link">About</a>
+                    <a href="#" class="nav-link active">Projects</a>
+                    <a href="index.html#contact" class="nav-link">Contact</a>
+                </div>
+                <button id="menu-btn" class="md:hidden p-2">
+                    <i class="fas fa-bars text-2xl"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="fixed inset-0 bg-gray-900/95 z-40 hidden">
+        <button id="close-menu" class="absolute top-6 right-6 text-2xl">
+            <i class="fas fa-times"></i>
+        </button>
+        <div class="flex flex-col items-center justify-center h-full space-y-8">
+            <a href="index.html" class="nav-link text-xl">Home</a>
+            <a href="index.html#about" class="nav-link text-xl">About</a>
+            <a href="#" class="nav-link text-xl active">Projects</a>
+            <a href="index.html#contact" class="nav-link text-xl">Contact</a>
+        </div>
+    </div>
+
+    <!-- Projects Header -->
+    <header class="pt-32 pb-20 relative overflow-hidden">
+        <div class="absolute inset-0">
+            <div class="grid-background"></div>
+            <div class="floating-particles"></div>
+        </div>
+        <div class="container mx-auto px-4 relative z-10">
+            <h1 class="text-4xl md:text-6xl font-bold text-center mb-6 gradient-text" data-aos="fade-up">
+                My Projects
+            </h1>
+            <p class="text-xl text-gray-400 text-center max-w-2xl mx-auto" data-aos="fade-up" data-aos-delay="100">
+                A collection of my work showcasing my journey in development and design.
+            </p>
+        </div>
+    </header>
+
+    <!-- Projects Grid -->
+    <section class="py-20 relative">
+        <div class="container mx-auto px-4">
+            <!-- Project Categories -->
+            <div class="flex flex-wrap justify-center gap-4 mb-12" data-aos="fade-up">
+                <button class="category-btn active" data-category="all">All</button>
+                <button class="category-btn" data-category="web">Web Development</button>
+                <button class="category-btn" data-category="java">Java</button>
+                <button class="category-btn" data-category="python">Python</button>
+            </div>
+
+            <!-- Projects Grid -->
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Clickbait Creator -->
+                <div class="project-card-large" data-category="python" data-aos="fade-up">
+                    <div class="project-image">
+                        <img src="assets/clickbait.png" alt="Clickbait Creator">
+                        <div class="project-overlay">
+                            <div class="project-links">
+                                <a href="https://github.com/samarthghag/Clickbait-Creator" target="_blank" class="project-link">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                                <a href="#" class="project-link">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Clickbait Creator</h3>
+                        <p class="project-description">
+                            An AI-powered Python application that generates engaging headlines. Achieved 85% user engagement rate and processed over 10,000 headlines during testing. Implemented NLP techniques resulting in a 40% improvement in headline quality.
+                        </p>
+                        <div class="project-tech">
+                            <span class="tech-tag">Python</span>
+                            <span class="tech-tag">NLP</span>
+                            <span class="tech-tag">Machine Learning</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Financial Task Scheduler -->
+                <div class="project-card-large" data-category="python" data-aos="fade-up" data-aos-delay="100">
+                    <div class="project-image">
+                        <img src="assets/financial-scheduler.jpg" alt="Financial Task Scheduler">
+                        <div class="project-overlay">
+                            <div class="project-links">
+                                <a href="https://github.com/samarthghag/Financial-Task-Scheduler" target="_blank" class="project-link">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                                <a href="https://financial-task-scheduler-w8r7eecgrgru2rl49g4mcb.streamlit.app/" target="_blank" class="project-link">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Financial Task Scheduler</h3>
+                        <p class="project-description">
+                            A Python-based scheduler implementing OS concepts for managing financial tasks.
+                        </p>
+                        <div class="project-tags">
+                            <span class="project-tag">Python</span>
+                            <span class="project-tag">Streamlit</span>
+                            <span class="project-tag">Pandas</span>
+                            <span class="project-tag">Matplotlib</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Event Management System -->
+                <div class="project-card-large" data-category="java" data-aos="fade-up">
+                    <div class="project-image">
+                        <img src="assets/Event System.png" alt="Event Management System">
+                        <div class="project-overlay">
+                            <div class="project-links">
+                                <a href="https://github.com/samarthghag/Event_Management_System" class="project-link">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Event Management System</h3>
+                        <p class="project-description">
+                            A comprehensive Java-based event management system with Swing GUI and MySQL database.
+                        </p>
+                        <div class="project-tags">
+                            <span class="project-tag">Java</span>
+                            <span class="project-tag">Swing</span>
+                            <span class="project-tag">MySQL</span>
+                            <span class="project-tag">JDBC</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Weather Web App -->
+                <div class="project-card-large" data-category="java" data-aos="fade-up">
+                    <div class="project-image">
+                        <img src="assets/Weather app.png" alt="Weather Web App">
+                        <div class="project-overlay">
+                            <div class="project-links">
+                                <a href="https://github.com/samarthghag/Weather_App" class="project-link">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Weather Web App</h3>
+                        <p class="project-description">
+                            A responsive weather application built with Java Spring Boot. Features real-time updates with 99.9% uptime and handles 1000+ daily API requests. Reduced load time by 60% through efficient caching implementation.
+                        </p>
+                        <div class="project-tech">
+                            <span class="tech-tag">Java</span>
+                            <span class="tech-tag">Spring Boot</span>
+                            <span class="tech-tag">REST APIs</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Eco-Tech Start Website -->
+                <div class="project-card-large" data-category="web" data-aos="fade-up">
+                    <div class="project-image">
+                        <img src="assets/eco-tech.jpg" alt="Eco-Tech Start Website">
+                        <div class="project-overlay">
+                            <div class="project-links">
+                                <a href="https://github.com/samarthghag/Eco-Tech-Start-Website" target="_blank" class="project-link">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                                <a href="https://eco-tech-start-website.vercel.app/" target="_blank" class="project-link">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Eco-Tech Start Website</h3>
+                        <p class="project-description">
+                            Modern website showcasing eco-friendly technology solutions with responsive design.
+                        </p>
+                        <div class="project-tags">
+                            <span class="project-tag">HTML5</span>
+                            <span class="project-tag">CSS3</span>
+                            <span class="project-tag">JavaScript</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Smart Home Management Website -->
+                <div class="project-card-large" data-category="web" data-aos="fade-up">
+                    <div class="project-image">
+                        <img src="assets/smart-home.jpg" alt="Smart Home Management">
+                        <div class="project-overlay">
+                            <div class="project-links">
+                                <a href="https://github.com/samarthghag/Smart-Home-Management-Website" class="project-link">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-content">
+                        <h3 class="project-title">Smart Home Management</h3>
+                        <p class="project-description">
+                            A comprehensive website for managing smart home devices and services.
+                        </p>
+                        <div class="project-tags">
+                            <span class="project-tag">Node.js</span>
+                            <span class="project-tag">Express</span>
+                            <span class="project-tag">EJS</span>
+                            <span class="project-tag">Bulma CSS</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        // Initialize AOS
+        AOS.init({
+            duration: 1000,
+            once: true,
+            offset: 100
+        });
+
+        // Project filtering
+        const categoryBtns = document.querySelectorAll('.category-btn');
+        const projectCards = document.querySelectorAll('.project-card-large');
+
+        categoryBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Remove active class from all buttons
+                categoryBtns.forEach(b => b.classList.remove('active'));
+                // Add active class to clicked button
+                btn.classList.add('active');
+
+                const category = btn.dataset.category;
+                
+                projectCards.forEach(card => {
+                    // Add transition classes
+                    card.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+                    
+                    if (category === 'all' || card.dataset.category === category) {
+                        card.style.display = 'block';
+                        // Use setTimeout to ensure display:block is applied before changing opacity
+                        setTimeout(() => {
+                            card.style.opacity = '1';
+                            card.style.transform = 'translateY(0)';
+                        }, 10);
+                    } else {
+                        card.style.opacity = '0';
+                        card.style.transform = 'translateY(20px)';
+                        // Hide element after fade out animation
+                        setTimeout(() => {
+                            card.style.display = 'none';
+                        }, 300);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

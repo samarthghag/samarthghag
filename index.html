@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio of Samarth Ghag - Full Stack Developer specializing in Web Development, Java, and UI/UX Design. Delivering innovative solutions with measurable impact. Currently pursuing Computer Science at Christ University.">
+    <meta name="keywords" content="Samarth Ghag, Full Stack Developer, Web Development, Java Developer, UI/UX Designer, Christ University, Portfolio, Software Engineer, React Developer, Node.js">
+    <meta name="author" content="Samarth Ghag">
+    <meta property="og:title" content="Samarth Ghag | Full Stack Developer & UI/UX Designer">
+    <meta property="og:description" content="Experienced Full Stack Developer crafting innovative digital solutions. Specialized in Web Development, Java, and modern UI/UX Design. View my latest projects and achievements.">
+    <meta property="og:image" content="assets/my pic.png">
+    <meta property="og:url" content="https://your-website-url.com">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Samarth Ghag | Full Stack Developer">
+    <meta name="twitter:description" content="Full Stack Developer specializing in creating impactful digital solutions. Check out my portfolio for latest projects and achievements.">
+    <meta name="twitter:image" content="assets/my pic.png">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    
+    <title>Samarth Ghag | Full Stack Developer & UI/UX Designer</title>
+    
+    <!-- Preload critical assets -->
+    <link rel="preload" href="assets/my pic.png" as="image">
+    <link rel="preload" href="style.css" as="style">
+    <link rel="preload" href="script.js" as="script">
+    
+    <!-- Stylesheets -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" media="print" onload="this.media='all'">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" media="print" onload="this.media='all'">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+</head>
+<body class="bg-gray-900 text-gray-200">
+    <!-- Navigation -->
+    <nav class="fixed w-full bg-gray-900/80 backdrop-blur-sm z-50 py-4">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center">
+                <a href="#" class="text-2xl font-bold gradient-text">S.</a>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#home" class="nav-link">Home</a>
+                    <a href="#about" class="nav-link">About</a>
+                    <a href="#projects" class="nav-link">Projects</a>
+                    <a href="#contact" class="nav-link">Contact</a>
+                </div>
+                <button id="menu-btn" class="md:hidden p-2 rounded-lg hover:bg-gray-800/50">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="fixed inset-0 hidden">
+        <button id="close-menu" class="absolute top-6 right-6 text-gray-300 hover:text-primary-500">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+            </svg>
+        </button>
+        <div class="flex flex-col items-center justify-center h-full space-y-8">
+            <a href="#home" class="nav-link text-xl">Home</a>
+            <a href="#about" class="nav-link text-xl">About</a>
+            <a href="#projects" class="nav-link text-xl">Projects</a>
+            <a href="#contact" class="nav-link text-xl">Contact</a>
+        </div>
+    </div>
+
+    <!-- Hero Section - Enhanced with 3D elements and better layout -->
+    <section id="home" class="min-h-screen flex items-center relative overflow-hidden">
+        <!-- Background Elements -->
+        <div class="absolute inset-0">
+            <div class="grid-background"></div>
+            <div class="floating-particles"></div>
+        </div>
+
+        <div class="container mx-auto px-4 relative z-10">
+            <div class="flex flex-col md:flex-row items-center justify-between gap-12">
+                <!-- Left Content -->
+                <div class="md:w-1/2" data-aos="fade-up" data-aos-duration="1200">
+                    <div class="glass-card p-8 rounded-2xl">
+                        <div class="code-tag mb-4">&lt;hello world/&gt;</div>
+                        <h1 class="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                            I'm <span class="gradient-text animate-gradient">Samarth Ghag</span>
+                        </h1>
+                        <div class="typing-container mb-6">
+                            <span class="text-xl text-gray-400">I craft</span>
+                            <span class="typing-text gradient-text text-xl"></span>
+                        </div>
+                        <p class="text-gray-400 mb-8 text-lg leading-relaxed">
+                            A passionate developer focused on creating impactful digital experiences through clean code and thoughtful design.
+                        </p>
+                        <div class="flex flex-wrap gap-4">
+                            <a href="#projects" class="btn-primary-3d">
+                                <span>View My Work</span>
+                                <div class="btn-3d-layer"></div>
+                            </a>
+                            <a href="#contact" class="btn-primary-3d">
+                                <span>Get in Touch</span>
+                                <div class="btn-3d-layer"></div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Content - Profile Image -->
+                <div class="md:w-1/2" data-aos="fade-left" data-aos-duration="1200">
+                    <div class="profile-card">
+                        <div class="profile-image-container">
+                            <img src="assets/my pic.png" alt="Samarth Ghag" class="profile-image">
+                            <div class="profile-backdrop"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section - Enhanced -->
+    <section id="about" class="py-20 relative overflow-hidden">
+        <!-- Background decoration -->
+        <div class="absolute inset-0 opacity-10">
+            <div class="about-grid"></div>
+        </div>
+        
+        <div class="container mx-auto px-4 relative z-10">
+            <h2 class="text-4xl md:text-5xl font-bold mb-16 text-center gradient-text" data-aos="fade-up">
+                About Me
+            </h2>
+            
+            <div class="grid md:grid-cols-2 gap-12 items-center mb-20">
+                <!-- Left side - Bio -->
+                <div class="space-y-6" data-aos="fade-right">
+                    <div class="glass-card p-8">
+                        <p class="text-lg text-gray-300 leading-relaxed">
+                            Hi there! I'm Samarth, a Full Stack Developer who loves turning complex problems into elegant solutions. As a BCA student at Christ University, I've consistently ranked in the top 5% of my class while leading multiple successful projects.
+                        </p>
+                        <p class="text-lg text-gray-300 leading-relaxed mt-4">
+                            My recent internship at a tech startup resulted in a 40% improvement in application performance through optimized database queries and frontend optimization. I specialize in creating responsive web applications that users love - my latest project achieved a 95% user satisfaction rate.
+                        </p>
+                        <div class="mt-6 flex gap-4">
+                            <div class="stat-card">
+                                <span class="text-3xl font-bold gradient-text">2+</span>
+                                <span class="text-sm text-gray-400">Years of Development</span>
+                            </div>
+                            <div class="stat-card">
+                                <span class="text-3xl font-bold gradient-text">15+</span>
+                                <span class="text-sm text-gray-400">Successful Projects</span>
+                            </div>
+                            <div class="stat-card">
+                                <span class="text-3xl font-bold gradient-text">3+</span>
+                                <span class="text-sm text-gray-400">Tech Internships</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right side - Skills -->
+                <div class="space-y-6" data-aos="fade-left">
+                    <div class="glass-card p-8">
+                        <h3 class="text-2xl font-bold mb-6 gradient-text">Technical Arsenal</h3>
+                        <div class="skills-grid">
+                            <div class="skill-card" data-skill="Python">
+                                <i class="fab fa-python text-2xl"></i>
+                                <span>Python</span>
+                            </div>
+                            <div class="skill-card" data-skill="Java">
+                                <i class="fab fa-java text-2xl"></i>
+                                <span>Java</span>
+                            </div>
+                            <div class="skill-card" data-skill="JavaScript">
+                                <i class="fab fa-js text-2xl"></i>
+                                <span>JavaScript</span>
+                            </div>
+                            <div class="skill-card" data-skill="HTML/CSS">
+                                <i class="fab fa-html5 text-2xl"></i>
+                                <span>HTML/CSS</span>
+                            </div>
+                            <div class="skill-card" data-skill="React">
+                                <i class="fab fa-react text-2xl"></i>
+                                <span>React</span>
+                            </div>
+                            <div class="skill-card" data-skill="Git">
+                                <i class="fab fa-git-alt text-2xl"></i>
+                                <span>Git</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Experience Timeline -->
+            <div class="mt-20" data-aos="fade-up">
+                <h3 class="text-3xl font-bold mb-10 text-center gradient-text">Journey So Far</h3>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content glass-card">
+                            <h4 class="text-xl font-bold mb-2">Java Development Intern</h4>
+                            <p class="text-gray-400">CodeClause Pvt Ltd • 2024</p>
+                            <p class="mt-2">Developing robust Java applications and learning enterprise-level development practices.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content glass-card">
+                            <h4 class="text-xl font-bold mb-2">Web Developer</h4>
+                            <p class="text-gray-400">Christ University • 2024</p>
+                            <p class="mt-2">Creating and maintaining web applications for university projects.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content glass-card">
+                            <h4 class="text-xl font-bold mb-2">Graphic Design Intern</h4>
+                            <p class="text-gray-400">YouVah • 2022</p>
+                            <p class="mt-2">Designed creative visual content and learned professional design workflows.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-20 bg-gray-800/50">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl md:text-4xl font-bold mb-12 text-center" data-aos="fade-up">Featured Projects</h2>
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Featured project cards will be added dynamically -->
+            </div>
+            <div class="text-center mt-12">
+                <a href="projects.html" class="btn-primary">View More Projects</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section - Enhanced -->
+    <section id="contact" class="py-20 relative overflow-hidden">
+        <div class="absolute inset-0 opacity-10">
+            <div class="contact-grid"></div>
+        </div>
+        
+        <div class="container mx-auto px-4 relative z-10">
+            <h2 class="text-4xl md:text-5xl font-bold mb-16 text-center gradient-text" data-aos="fade-up">
+                Get In Touch
+            </h2>
+            
+            <div class="grid md:grid-cols-2 gap-12">
+                <!-- Left side - Contact Info -->
+                <div class="space-y-8" data-aos="fade-right">
+                    <div class="glass-card p-8">
+                        <h3 class="text-2xl font-bold mb-6 gradient-text">Let's Connect</h3>
+                        <div class="space-y-4">
+                            <div class="contact-item">
+                                <i class="fas fa-envelope text-xl"></i>
+                                <a href="mailto:samarthghag1504@gmail.com" class="hover:text-primary-color transition-colors">
+                                    samarthghag1504@gmail.com
+                                </a>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-map-marker-alt text-xl"></i>
+                                <span>Bangalore, India</span>
+                            </div>
+                        </div>
+                        
+                        <div class="mt-8">
+                            <h4 class="text-xl font-semibold mb-4">Social Links</h4>
+                            <div class="flex gap-4">
+                                <a href="https://github.com/Sama1504" target="_blank" class="social-icon-3d">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/in/samarth-ghag-581a96300" target="_blank" class="social-icon-3d">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                                <a href="mailto:samarthghag1504@gmail.com" class="social-icon-3d">
+                                    <i class="fas fa-envelope"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right side - Contact Form -->
+                <div class="space-y-8" data-aos="fade-left">
+                    <form id="contact-form" class="glass-card p-8">
+                        <div class="space-y-6">
+                            <div class="form-group">
+                                <label class="text-gray-300 mb-2 block">Name</label>
+                                <input type="text" class="form-input" placeholder="Your name" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="text-gray-300 mb-2 block">Email</label>
+                                <input type="email" class="form-input" placeholder="Your email" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="text-gray-300 mb-2 block">Message</label>
+                                <textarea class="form-input" rows="5" placeholder="Your message" required></textarea>
+                            </div>
+                            <button type="submit" class="btn-primary-3d w-full">
+                                <span>Send Message</span>
+                                <div class="btn-3d-layer"></div>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-8 bg-gray-900">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-400">&copy; 2024 Samarth Ghag . All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js" defer></script>
+</body>
+</html>
