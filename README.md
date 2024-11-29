@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Brainstorm for new idea **
+- 💼 I'm currently working on: **💻 Brainstorm for new idea**
 - 🌱 I'm currently learning: **📚 Artificial Intelligence , Generative Ai**
 - 💬 Ask me about: **💡 JavaScript, Node.js and  Java , Web Development, Graphic Design**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
