@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **📚 Exploring C# , Advance Java , React ,JS , Three Js**
 - 💬 Ask me about: **💡 JavaScript, Node.js, JavaScript, Node.js and Java, Web Development, Graphic Design**
 - ⚡ Fun fact: **🎢 I once debugged an issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="samarth-ghag.vercel.app" target="_blank">samarth-ghag.vercel.app</a>**
+- 📂 Portfolio: **<a href="samarthghag.vercel.app" target="_blank">samarth-ghag.vercel.app</a>**
 
  **<h3 align="left">Skills</h3>**
 
