@@ -77,7 +77,7 @@ const samarth = {
 
 ## 🎨 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🤖 **Multi-Agent Code Writing System**
 
