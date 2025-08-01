@@ -73,46 +73,6 @@ const samarth = {
 
 </div>
 
----
-
-## 🎨 Featured Projects
-
-<div align="left">
-
-### 🤖 **Multi-Agent Code Writing System**
-
-*Revolutionary AI-powered collaborative coding platform*
-
-* **Stack:** LangGraph, Gemini API, Python
-* **Features:** Automated testing, error handling, workflow optimization
-* **Impact:** Streamlined development process for teams
-
-### 🛒 **Groovy Cart Cascade**
-
-*Next-gen e-commerce platform with real-time capabilities*
-
-* **Stack:** React, TypeScript, Supabase
-* **Features:** Real-time cart management, guest checkout, responsive animations
-* **Impact:** Enhanced user experience with modern UI/UX
-
-### 💰 **Finance Savvy Journey**
-
-*Smart financial management and investment platform*
-
-* **Stack:** React, Node.js, Express.js
-* **Features:** Expense tracking, investment simulation, real-time analytics
-* **Impact:** Empowering users with financial literacy tools
-
-### 🎯 **ClickBait Creator**
-
-*AI-powered content generation with SEO optimization*
-
-* **Stack:** Python, Google AI API
-* **Features:** Dynamic content creation, automated SEO optimization
-* **Impact:** Boosting content marketing efficiency
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -148,7 +108,7 @@ const samarth = {
 
 </div>
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote
 
 <div align="center">
 
