@@ -1,40 +1,167 @@
-![👋 Hi, my name is Samarth Ghag](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+# 🚀 Samarth Ghag | Code Architect & AI Innovator
 
-![Profile views](https://komarev.com/ghpvc/?username=samarthghag&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Samarth Ghag
-      </h1>
-    </summary>
-  </ul>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Chief+of+Staff+%40+Guidero;Co-Founder+%26+CTO+%40+College+Circle;AI+%7C+Full-Stack+%7C+Cybersecurity)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=samarthghag&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/samarthghag)
+[![GitHub followers](https://img.shields.io/github/followers/samarthghag?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/samarthghag)
+
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.linkedin.com/in/www.linkedin.com/in/samarth-ghag" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/samarthghag" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/samarth.ghag.1504" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="samarthghag1504sam@gmail.com " target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+## 🎯 About Me
 
- **<h3 align="left">🚀 Passionate full-stack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+> *"Turning caffeine into code and ideas into reality"* ☕➡️💻
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Developing an app in Visual Studios for the domain of Digital Service Agency**
-- 🌱 I'm currently learning: **📚 Exploring C# , Advance Java , React ,JS , Three Js**
-- 💬 Ask me about: **💡 JavaScript, Node.js, JavaScript, Node.js and Java, Web Development, Graphic Design**
-- ⚡ Fun fact: **🎢 I once debugged an issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="samarthghag.vercel.app" target="_blank">samarthghag.vercel.app</a>**
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=java" height="32" alt="Java" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=cs" height="32" alt="CSharp" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="C++" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=kotlin" height="32" alt="Kotlin" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=jquery" height="32" alt="JQuery" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=react" height="32" alt="React" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=angular" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=express" height="32" alt="Express" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt="ASP.NET" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="Androidstudio" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="TensorFlow" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=visualstudio" height="32" alt="Visualstudio" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=eclipse" height="32" alt="Eclipse" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin-right: 4px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samarthghag&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthghag&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-<p align="left">
+```typescript
+const samarth = {
+  currentRoles: ["Chief of Staff @ Guidero", "Co-Founder & CTO @ College Circle"],
+  location: "Bangalore, India 🇮🇳",
+  education: "BCA (Honors & Research) @ Christ University",
+  passions: ["AI/ML", "Cybersecurity", "Full-Stack Development"],
   
-</p>
+  currentlyWorking: "Building next-gen educational platforms with AI",
+  currentlyLearning: ["Advanced React", "Three.js", "C#", "Advanced Java"],
+  
+  lifePhilosophy: "Code with purpose, innovate with passion",
+  funFact: "I once debugged code while on a roller coaster! 🎢"
+};
+````
+
+---
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+|   🎯 **Focus Areas**   | 🔥 **Current Projects** |   🌟 **Achievements**  |
+| :--------------------: | :---------------------: | :--------------------: |
+|  AI & Machine Learning | Multi-Agent Code System | Founder @ Vault Vortex |
+| Full-Stack Development | College Circle Platform |   10+ Major Projects   |
+|      Cybersecurity     |  Groovy Cart E-commerce |       IEEE Member      |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### **Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+### **Tools & Technologies**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### **AI & ML Stack**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3A3A?style=for-the-badge\&logo=langchain\&logoColor=white)
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+### 🤖 **Multi-Agent Code Writing System**
+
+*Revolutionary AI-powered collaborative coding platform*
+
+* **Stack:** LangGraph, Gemini API, Python
+* **Features:** Automated testing, error handling, workflow optimization
+* **Impact:** Streamlined development process for teams
+
+### 🛒 **Groovy Cart Cascade**
+
+*Next-gen e-commerce platform with real-time capabilities*
+
+* **Stack:** React, TypeScript, Supabase
+* **Features:** Real-time cart management, guest checkout, responsive animations
+* **Impact:** Enhanced user experience with modern UI/UX
+
+### 💰 **Finance Savvy Journey**
+
+*Smart financial management and investment platform*
+
+* **Stack:** React, Node.js, Express.js
+* **Features:** Expense tracking, investment simulation, real-time analytics
+* **Impact:** Empowering users with financial literacy tools
+
+### 🎯 **ClickBait Creator**
+
+*AI-powered content generation with SEO optimization*
+
+* **Stack:** Python, Google AI API
+* **Features:** Dynamic content creation, automated SEO optimization
+* **Impact:** Boosting content marketing efficiency
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthghag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthghag&layout=compact&theme=tokyonight&hide_border=true" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthghag\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+## 🏆 Achievements & Leadership
+
+<div align="center">
+
+|      🎖️ **Leadership Roles**     |          🏅 **Certifications**         |     🌟 **Recognition**     |
+| :-------------------------------: | :------------------------------------: | :------------------------: |
+| Co-Founder & CTO @ College Circle | International Programming Contest 2024 |    Vault Vortex Founder    |
+|      Chief of Staff @ Guidero     |    What Is Generative AI? - LinkedIn   |         IEEE Member        |
+|   Former Founder @ Vault Vortex   |      Excel with Python - Skillsoft     | Tech Society Active Member |
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samarth-ghag)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/samarthghag)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://samarthghag.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samarthghag9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/samarth.ghag.1504)
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+### 🌟 *"In a world full of algorithms, be the one who writes them"* 🌟
+
+**Thanks for visiting! Let's build something amazing together** 🚀
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
