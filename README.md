@@ -1,14 +1,4 @@
 # 🚀 Samarth Ghag | Code Architect & AI Innovator
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Chief+of+Staff+%40+Guidero;Co-Founder+%26+CTO+%40+College+Circle;AI+%7C+Full-Stack+%7C+Cybersecurity)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=samarthghag&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/samarthghag)
-[![GitHub followers](https://img.shields.io/github/followers/samarthghag?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/samarthghag)
-
-</div>
-
 ## 🎯 About Me
 
 > *"Turning caffeine into code and ideas into reality"* ☕➡️💻
