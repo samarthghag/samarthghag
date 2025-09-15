@@ -1,117 +1,68 @@
-# 🚀 Samarth Ghag | Code Architect & AI Innovator
-## 🎯 About Me
-
-> *"Turning caffeine into code and ideas into reality"* ☕➡️💻
-
-```typescript
-const samarth = {
-  currentRoles: ["Chief of Staff @ Guidero", "Co-Founder & CTO @ College Circle"],
-  location: "Bangalore, India 🇮🇳",
-  education: "BCA (Honors & Research) @ Christ University",
-  passions: ["AI/ML", "Cybersecurity", "Full-Stack Development"],
-  
-  currentlyWorking: "Building next-gen educational platforms with AI",
-  currentlyLearning: ["Advanced React", "Three.js", "C#", "Advanced Java"],
-  
-  lifePhilosophy: "Code with purpose, innovate with passion",
-  funFact: "I once debugged code while on a roller coaster! 🎢"
-};
-````
-
----
-
-## ⚡ Quick Stats
-
 <div align="center">
-
-|   🎯 **Focus Areas**   | 🔥 **Current Projects** |   🌟 **Achievements**  |
-| :--------------------: | :---------------------: | :--------------------: |
-|  AI & Machine Learning | Multi-Agent Code System | Founder @ Vault Vortex |
-| Full-Stack Development | College Circle Platform |   10+ Major Projects   |
-|      Cybersecurity     |  Groovy Cart E-commerce |       IEEE Member      |
-
+  <img src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif" width="500" />
+  <h1>👋 Hi, I'm Samarth Ghag</h1>
+  <p>
+    <strong>Full-Stack Developer | AI Enthusiast | Cybersecurity Advocate</strong><br>
+    Founder @ Vault Vortex | Co-Founder & CTO @ College Circle | Chief of Staff @ Guidero Private Limited
+  </p>
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+### **🚀 About Me**
+Entrepreneurial **software developer** with expertise in **Python, Node.js, and Express.js**. Passionate about **AI, cybersecurity, and full-stack innovation**. Currently pursuing **BCA (Hons.)** at Christ University, Bangalore, with a focus on **AI, software development, and cybersecurity**.
 
+---
+
+### **💡 What I Do**
+- **Build**: Full-stack apps, AI tools, and scalable platforms.
+- **Lead**: Technical teams and startups (Vault Vortex, College Circle).
+- **Innovate**: Multi-agent AI systems, e-commerce platforms, and financial tools.
+- **Secure**: Ethical hacking and cybersecurity best practices.
+
+---
+
+### **🛠️ Tech Stack**
 <div align="center">
-
-### **Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### **Tools & Technologies**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-### **AI & ML Stack**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3A3A?style=for-the-badge\&logo=langchain\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,react,nodejs,express,tailwind,bootstrap,mysql,tensorflow,git,aws,figma" />
 </div>
 
-## 📊 GitHub Analytics
+---
 
+### **📌 Featured Projects**
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Multi-Agent Code Writing System** | LangGraph, Gemini API | Collaborative AI for code automation. |
+| **Groovy Cart Cascade** | React, TypeScript, Supabase | E-commerce with real-time cart management. |
+| **Finance Savvy Journey** | Python, AI | Expense tracking & investment simulation. |
+| **Clickbait Creator** | Python, Google AI API | AI-powered content generator. |
+
+---
+
+### **📈 GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samarthghag&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthghag&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" />
+</p>
+
+---
+
+### **🔗 Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/samarth-ghag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/samarthghag"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:samarthghag9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://samarthghag.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### **💬 Ask Me About**
+- **Full-Stack Development** (React, Node.js, Express)
+- **AI & Cybersecurity** (LangGraph, TensorFlow, Ethical Hacking)
+- **Startup Tech** (Scaling, Product Development)
+
+---
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthghag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthghag&layout=compact&theme=tokyonight&hide_border=true" />
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthghag\&theme=tokyonight\&hide_border=true)
-
-</div>
-
-## 🏆 Achievements & Leadership
-
-<div align="center">
-
-|      🎖️ **Leadership Roles**     |          🏅 **Certifications**         |     🌟 **Recognition**     |
-| :-------------------------------: | :------------------------------------: | :------------------------: |
-| Co-Founder & CTO @ College Circle | International Programming Contest 2024 |    Vault Vortex Founder    |
-|      Chief of Staff @ Guidero     |    What Is Generative AI? - LinkedIn   |         IEEE Member        |
-|   Former Founder @ Vault Vortex   |      Excel with Python - Skillsoft     | Tech Society Active Member |
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samarth-ghag)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/samarthghag)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://samarthghag.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samarthghag9@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/samarth.ghag.1504)
-
-</div>
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-### 🌟 *"In a world full of algorithms, be the one who writes them"* 🌟
-
-**Thanks for visiting! Let's build something amazing together** 🚀
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
+  <img src="https://komarev.com/ghpvc/?username=samarthghag&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
